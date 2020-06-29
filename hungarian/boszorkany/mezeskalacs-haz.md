@@ -4,3 +4,4 @@ Juliska ott vannak egy ketrecben... hirtelen elfog a szorongas: lehet, hogy amne
 Mit teszel?
 
 [Megnezem bevettem-e a tengapi gyogyszert](gyogyszer/gyogyszer.md)
+[Megnezem meghizott-e Jancsi vagy Juliska](kover/kover.md)
